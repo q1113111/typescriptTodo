@@ -11,7 +11,3 @@
   </router-link>
   <router-view />
 </template>
-
-<script setup lang="ts">
-
-</script>

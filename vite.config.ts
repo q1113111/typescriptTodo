@@ -11,15 +11,4 @@ export default defineConfig({
       '~/': `${path.resolve(__dirname, './')}/`
     }
   }
-  // server: {
-  // proxy: {
-  //   '/cms': {
-  //     target: 'http://microchat-api.9976cbe1d6f04a2d8420.japanwest.aksapp.io/',
-  //     changeOrigin: true
-  //     // rewrite: path => path.replace(/^\/api/, '')
-  //   }
-  // },
-  // host: '0.0.0.0' // 显示IP位置
-  // }
-
 })
