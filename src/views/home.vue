@@ -10,7 +10,7 @@ console.log(store.state.test)
 </script>
 
 <style lang="scss">
-.box{
-      margin: 50;
+.box {
+  margin: 50;
 }
 </style>
